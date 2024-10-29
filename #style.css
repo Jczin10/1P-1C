@@ -1,0 +1,25 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+body{
+    background-color: black;
+color: aliceblue;
+font-family: "Bitter", serif;
+}
+p{
+    color: blueviolet;
+    background-color: beige;
+}
+h1{
+    text-align: center;
+    font-weight: 100;
+    font-size: 30px;
+}
+nav{
+    text-align: center;
+}
+a{
+    color: rgb(37, 121, 196);
+    
+}
